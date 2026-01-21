@@ -15,4 +15,9 @@ for char in text:
         result += char
 
 print("Encrypted text:", result)
+       
+
+
+
+
 
